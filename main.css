@@ -136,7 +136,6 @@ div > span {
         background-image: url("images/bg-pattern-top-mobile.svg"),url("images/bg-pattern-bottom-desktop.svg");
         background-repeat: no-repeat;
         background-position: top left,bottom right;
-        min-width: 500px;
     }
     .main{
         flex-direction: column;
